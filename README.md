@@ -1,16 +1,16 @@
 # todo-dataops
 
-Projeto criado para acompanhar meus estudos em DataOps e Engenharia de Dados.
+Project created to support my studies in DataOps and Data Engineering.
 
-## Objetivo
+## Objective
 
-Aprender Git, GitHub, DataOps e desenvolver um projeto completo seguindo boas práticas de engenharia de software.
+Learn Git, GitHub, and DataOps while developing a complete project following software engineering best practices.
 
-## Tecnologias
+## Technologies
 
 - Git
 - GitHub
 
-## Autor
+## Author
 
-Lorena Batista 
+Lorena Batista
