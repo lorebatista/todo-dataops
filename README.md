@@ -11,6 +11,6 @@ Aprender Git, GitHub, DataOps e desenvolver um projeto completo seguindo boas pr
 - Git
 - GitHub
 
-## Autor
+## Autora
 
 Lorena Batista 
